@@ -2,21 +2,59 @@
   display: none;
 }*/
 
-#Initially-showing {
+#term1-showing {
   display: none;
 }
-#local-showing {
+#term2-showing {
   display: none;
 }
-#bar-showing {
+#term3-showing {
   display: none;
 }
-.clickable {
-  cursor: pointer;
-  color: lightblue;
+#term4-showing {
+  display: none;
 }
-.clickable:hover {
-  text-decoration: underline;
+#term5-showing {
+  display: none;
+}
+#term6-showing {
+  display: none;
+}
+#term7-showing {
+  display: none;
+}
+#term8-showing {
+  display: none;
+}
+#term9-showing {
+  display: none;
+}
+#term10-showing {
+  display: none;
+}
+#term11-showing {
+  display: none;
+}
+#term12-showing {
+  display: none;
+}
+#term13-showing {
+  display: none;
+}
+#term14-showing {
+  display: none;
+}
+#term15-showing {
+  display: none;
+}
+#term16-showing {
+  display: none;
+}
+#term17-showing {
+  display: none;
+}
+#term18-showing {
+  display: none;
 }
 .clickable1 {
   cursor: pointer;
@@ -30,6 +68,118 @@
   color: lightblue;
 }
 .clickable2:hover {
+  text-decoration: underline;
+}
+.clickable3 {
+  cursor: pointer;
+  color: lightblue;
+}
+.clickable3:hover {
+  text-decoration: underline;
+}
+.clickable4 {
+  cursor: pointer;
+  color: lightblue;
+}
+.clickable4:hover {
+  text-decoration: underline;
+}
+.clickable5 {
+  cursor: pointer;
+  color: lightblue;
+}
+.clickable5:hover {
+  text-decoration: underline;
+}
+.clickable6 {
+  cursor: pointer;
+  color: lightblue;
+}
+.clickable6:hover {
+  text-decoration: underline;
+}
+.clickable7 {
+  cursor: pointer;
+  color: lightblue;
+}
+.clickable7:hover {
+  text-decoration: underline;
+}
+.clickable8 {
+  cursor: pointer;
+  color: lightblue;
+}
+.clickable8:hover {
+  text-decoration: underline;
+}
+.clickable9 {
+  cursor: pointer;
+  color: lightblue;
+}
+.clickable9:hover {
+  text-decoration: underline;
+}
+.clickable10 {
+  cursor: pointer;
+  color: lightblue;
+}
+.clickable10:hover {
+  text-decoration: underline;
+}
+.clickable11 {
+  cursor: pointer;
+  color: lightblue;
+}
+.clickable11:hover {
+  text-decoration: underline;
+}
+.clickable12 {
+  cursor: pointer;
+  color: lightblue;
+}
+.clickable12:hover {
+  text-decoration: underline;
+}
+.clickable13 {
+  cursor: pointer;
+  color: lightblue;
+}
+.clickable13:hover {
+  text-decoration: underline;
+}
+.clickable14 {
+  cursor: pointer;
+  color: lightblue;
+}
+.clickable14:hover {
+  text-decoration: underline;
+}
+.clickable15 {
+  cursor: pointer;
+  color: lightblue;
+}
+.clickable15:hover {
+  text-decoration: underline;
+}
+.clickable16 {
+  cursor: pointer;
+  color: lightblue;
+}
+.clickable16:hover {
+  text-decoration: underline;
+}
+.clickable17 {
+  cursor: pointer;
+  color: lightblue;
+}
+.clickable17:hover {
+  text-decoration: underline;
+}
+.clickable18 {
+  cursor: pointer;
+  color: lightblue;
+}
+.clickable18:hover {
   text-decoration: underline;
 }
 .red-background {
